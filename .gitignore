@@ -28,3 +28,7 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+# IDEA 项目配置文件
+.idea/
+*.iml
